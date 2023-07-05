@@ -13,5 +13,5 @@ Background:
     When I click the login button
     Then I should see the home page
 
-Just making a change
+Just making a changes
 
