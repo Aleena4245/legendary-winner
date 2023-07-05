@@ -13,4 +13,4 @@ Background:
     When I click the login button
     Then I should see the home page
 
-Now making changes
+Now making changes  in the github instead of git bash so it can be pulled
