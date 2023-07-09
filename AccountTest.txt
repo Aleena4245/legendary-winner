@@ -14,3 +14,5 @@ Background:
     Then I should see the home page
 
 Now making changes  in the github instead of git bash so it can be pulled
+
+Adding some code to the main branch for merge example
